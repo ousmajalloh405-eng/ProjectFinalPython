@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard — Gestion des Étudiants</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/dashboard.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+    <div class="header-content">
+        <h1>🎓 Gestion des Étudiants</h1>
+        <nav class="nav">
+            <a href="index.html" class="nav-link">📋 Tableau</a>
+            <a href="dashboard.html" class="nav-link active">📊 Dashboard</a>
+        </nav>
+    </div>
+</header>
+
+<main class="container">
+
+    <!-- Titre -->
+    <div class="dash-header">
+        <div>
+            <h2 class="dash-title">📊 Tableau de bord statistique</h2>
+            <p class="dash-subtitle">Vue d'ensemble des données étudiants</p>
+        </div>
+        <button class="btn btn-primary" onclick="loadAll()">🔄 Actualiser</button>
+    </div>
+
+    <!-- KPI Cards -->
+    <div class="kpi-grid" id="kpi-grid">
+        <div class="kpi-card blue">
+            <div class="kpi-icon">👨‍🎓</div>
+            <div class="kpi-label">Total étudiants</div>
+            <div class="kpi-value" id="kpi-total">—</div>
+        </div>
+        <div class="kpi-card green">
+            <div class="kpi-icon">✅</div>
+            <div class="kpi-label">Actifs</div>
+            <div class="kpi-value" id="kpi-actifs">—</div>
+        </div>
+        <div class="kpi-card orange">
+            <div class="kpi-icon">🗄</div>
+            <div class="kpi-label">Archivés</div>
+            <div class="kpi-value" id="kpi-archives">—</div>
+        </div>
+        <div class="kpi-card cyan">
+            <div class="kpi-icon">⭐</div>
+            <div class="kpi-label">Moyenne générale</div>
+            <div class="kpi-value" id="kpi-moyenne">—</div>
+        </div>
+        <div class="kpi-card purple">
+            <div class="kpi-icon">🗄️</div>
+            <div class="kpi-label">Source DB</div>
+            <div class="kpi-value" id="kpi-db">—</div>
+        </div>
+        <div class="kpi-card teal">
+            <div class="kpi-icon">📄</div>
+            <div class="kpi-label">Source JSON</div>
+            <div class="kpi-value" id="kpi-json">—</div>
+        </div>
+    </div>
+
+    <!-- Graphiques ligne 1 -->
+    <div class="charts-row">
+        <div class="chart-card">
+            <div class="chart-header">
+                <h3>👥 Répartition par classe</h3>
+                <span class="chart-sub">Nombre d'étudiants par classe</span>
+            </div>
+            <div class="chart-body">
+                <canvas id="chart-classes"></canvas>
+            </div>
+        </div>
+        <div class="chart-card">
+            <div class="chart-header">
+                <h3>🗃 Source des données</h3>
+                <span class="chart-sub">Base de données vs JSON</span>
+            </div>
+            <div class="chart-body chart-body-sm">
+                <canvas id="chart-sources"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Graphiques ligne 2 -->
+    <div class="charts-row">
+        <div class="chart-card">
+            <div class="chart-header">
+                <h3>📈 Moyenne par classe</h3>
+                <span class="chart-sub">Moyenne générale de chaque classe</span>
+            </div>
+            <div class="chart-body">
+                <canvas id="chart-moyennes"></canvas>
+            </div>
+        </div>
+        <div class="chart-card">
+            <div class="chart-header">
+                <h3>🏆 Top 10 — Meilleures moyennes</h3>
+                <span class="chart-sub">Les 10 meilleurs étudiants</span>
+            </div>
+            <div class="chart-body">
+                <canvas id="chart-top10"></canvas>
+            </div>
+        </div>
+    </div>
+
+</main>
+
+<script src="js/dashboard.js"></script>
+</body>
+</html>

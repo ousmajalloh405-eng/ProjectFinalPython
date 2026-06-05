@@ -1,0 +1,84 @@
+/* ── Dashboard header ────────────────────────────────────── */
+.dash-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+.dash-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--text);
+}
+.dash-subtitle {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-top: .25rem;
+}
+
+/* ── KPI Grid ────────────────────────────────────────────── */
+.kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+.kpi-card {
+    background: var(--surface);
+    border-radius: var(--radius-lg);
+    padding: 1.25rem;
+    box-shadow: var(--shadow);
+    text-align: center;
+    transition: transform .2s, box-shadow .2s;
+    position: relative;
+    overflow: hidden;
+}
+.kpi-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+}
+.kpi-card.blue::before   { background: linear-gradient(90deg, #1565C0, #0288D1); }
+.kpi-card.green::before  { background: linear-gradient(90deg, #2E7D32, #43A047); }
+.kpi-card.orange::before { background: linear-gradient(90deg, #E65100, #F57C00); }
+.kpi-card.cyan::before   { background: linear-gradient(90deg, #00838F, #00ACC1); }
+.kpi-card.purple::before { background: linear-gradient(90deg, #4527A0, #7B1FA2); }
+.kpi-card.teal::before   { background: linear-gradient(90deg, #00695C, #00897B); }
+.kpi-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+.kpi-icon  { font-size: 1.8rem; margin-bottom: .5rem; }
+.kpi-label { font-size: 11px; color: var(--text-muted);
+             text-transform: uppercase; letter-spacing: .06em;
+             font-weight: 600; margin-bottom: .4rem; }
+.kpi-value { font-size: 1.75rem; font-weight: 800; color: var(--text); }
+
+/* ── Charts ──────────────────────────────────────────────── */
+.charts-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+.chart-card {
+    background: var(--surface);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow);
+    overflow: hidden;
+}
+.chart-header {
+    padding: 1.1rem 1.4rem .75rem;
+    border-bottom: 1px solid var(--border);
+}
+.chart-header h3 { font-size: .95rem; font-weight: 700; color: var(--text); }
+.chart-sub { font-size: 11px; color: var(--text-muted); margin-top: .2rem; display: block; }
+.chart-body { padding: 1.25rem; height: 280px; }
+.chart-body-sm { height: 280px; display: flex; align-items: center; justify-content: center; }
+
+@media (max-width: 900px) {
+    .kpi-grid    { grid-template-columns: repeat(3, 1fr); }
+    .charts-row  { grid-template-columns: 1fr; }
+}
+@media (max-width: 500px) {
+    .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+}
