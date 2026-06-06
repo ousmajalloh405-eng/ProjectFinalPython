@@ -1,0 +1,6142 @@
+[
+  {
+    "code": "AAD004",
+    "numero": "LIHGFR0",
+    "nom": "Diallo",
+    "prenom": "Nourou",
+    "date_naissance": "02/01/2012",
+    "classe": "6emA",
+    "moyenne_generale": 12.75,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.5,
+        "notes_dev": [
+          14.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 9.17,
+        "notes_dev": [
+          14.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          15.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.17,
+        "notes_dev": [
+          13.0,
+          12.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "40DKG6T",
+    "nom": "Diallo",
+    "prenom": "awa",
+    "date_naissance": "21/10/2004",
+    "classe": "6emA",
+    "moyenne_generale": 13.97,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 15.0,
+        "moyenne_matiere": 16.11,
+        "notes_dev": [
+          17.0,
+          20.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.24,
+        "notes_dev": [
+          15.0,
+          16.15,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.17,
+        "notes_dev": [
+          13.0,
+          11.0,
+          15.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.67,
+        "notes_dev": [
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "44DSW78",
+    "nom": "Ndiaye",
+    "prenom": "Sidy",
+    "date_naissance": "19/01/2005",
+    "classe": "4emB",
+    "moyenne_generale": 12.21,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.56,
+        "notes_dev": [
+          7.0,
+          10.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.33,
+        "notes_dev": [
+          11.0,
+          10.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.67,
+        "notes_dev": [
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          14.0,
+          12.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          14.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "20LH7BG",
+    "nom": "FAYE",
+    "prenom": "Fallou",
+    "date_naissance": "19/04/2002",
+    "classe": "4emA",
+    "moyenne_generale": 10.81,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.56,
+        "notes_dev": [
+          8.0,
+          13.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.12,
+        "notes_dev": [
+          10.0,
+          10.1,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.5,
+        "notes_dev": [
+          12.0,
+          15.0,
+          10.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.33,
+        "notes_dev": [
+          8.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "8D805GT",
+    "nom": "Diop",
+    "prenom": "Seyni",
+    "date_naissance": "29/09/2005",
+    "classe": "3emA",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          7.0,
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.75,
+        "notes_dev": [
+          13.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "9HBW36T",
+    "nom": "Ba",
+    "prenom": "Aliou",
+    "date_naissance": "01/01/2006",
+    "classe": "5emA",
+    "moyenne_generale": 13.58,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.17,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.44,
+        "notes_dev": [
+          10.0,
+          11.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.52,
+        "notes_dev": [
+          14.12,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.0,
+        "notes_dev": [
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          12.0,
+          10.0,
+          17.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 14.0,
+        "moyenne_matiere": 15.0,
+        "notes_dev": [
+          17.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "W8NNJ6T",
+    "nom": "Ndoye",
+    "prenom": "Ousmane",
+    "date_naissance": "09/04/2004",
+    "classe": "5emB",
+    "moyenne_generale": 15.49,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 18.0,
+        "moyenne_matiere": 18.33,
+        "notes_dev": [
+          20.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.11,
+        "notes_dev": [
+          12.0,
+          14.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.53,
+        "notes_dev": [
+          15.16,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 18.0,
+        "moyenne_matiere": 17.67,
+        "notes_dev": [
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.33,
+        "notes_dev": [
+          14.0,
+          15.0,
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.0,
+        "notes_dev": [
+          13.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "23YLTXT",
+    "nom": "Baal",
+    "prenom": "Thierno",
+    "date_naissance": "22/01/2006",
+    "classe": "3emA",
+    "moyenne_generale": 11.11,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          13.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 8.0,
+        "moyenne_matiere": 9.89,
+        "notes_dev": [
+          12.0,
+          14.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.0,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.44,
+        "notes_dev": [
+          12.0,
+          12.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.33,
+        "notes_dev": [
+          8.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "48DKG8T",
+    "nom": "Baal",
+    "prenom": "Boubou",
+    "date_naissance": "26/04/2003",
+    "classe": "4emB",
+    "moyenne_generale": 13.45,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          17.0,
+          11.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.67,
+        "notes_dev": [
+          12.0,
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.67,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.67,
+        "notes_dev": [
+          13.0,
+          15.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          12.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "Q7XVP6G",
+    "nom": "Seck",
+    "prenom": "Bineta",
+    "date_naissance": "12/02/2005",
+    "classe": "3emA",
+    "moyenne_generale": 11.76,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.33,
+        "notes_dev": [
+          14.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          12.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.0,
+        "notes_dev": [
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 8.0,
+        "moyenne_matiere": 9.56,
+        "notes_dev": [
+          13.0,
+          13.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.33,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD005",
+    "numero": "M67KQV7",
+    "nom": "Correa",
+    "prenom": "Albert",
+    "date_naissance": "26/12/2003",
+    "classe": "6emA",
+    "moyenne_generale": 21.89,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          11.0,
+          10.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.33,
+        "notes_dev": [
+          11.0,
+          10.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.33,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 111.0,
+        "moyenne_matiere": 78.0,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          10.0,
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "H18AC4W",
+    "nom": "BA",
+    "prenom": "Mouhamed",
+    "date_naissance": "14/01/2005",
+    "classe": "6emA",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          7.0,
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.75,
+        "notes_dev": [
+          13.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "EPJHQQ5",
+    "nom": "DIAW",
+    "prenom": "Fallou",
+    "date_naissance": "12/08/2006",
+    "classe": "3emB",
+    "moyenne_generale": 12.63,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          14.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.27,
+        "notes_dev": [
+          12.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0,
+          9.0,
+          16.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "KM729R9",
+    "nom": "NDIAYE",
+    "prenom": "Marie",
+    "date_naissance": "19/02/2007",
+    "classe": "3emA",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          4.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.6,
+        "notes_dev": [
+          13.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "Q7U2XFP",
+    "nom": "DEME",
+    "prenom": "Abdou",
+    "date_naissance": "16/01/2004",
+    "classe": "4emA",
+    "moyenne_generale": 12.34,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.71,
+        "notes_dev": [
+          10.0,
+          14.5,
+          11.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          4.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          13.5
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "0747PMJ",
+    "nom": "Ndao",
+    "prenom": "Baye Ndiaga",
+    "date_naissance": "08/08/2008",
+    "classe": "5emB",
+    "moyenne_generale": 12.36,
+    "matieres": [
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          13.0,
+          9.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.83,
+        "notes_dev": [
+          8.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          13.5
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          13.0,
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "18G9C4L",
+    "nom": "DIEYE",
+    "prenom": "Abdoulaye",
+    "date_naissance": "01/01/2002",
+    "classe": "6emB",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          4.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.6,
+        "notes_dev": [
+          13.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "UQI7FN8",
+    "nom": "Cyrille",
+    "prenom": "Keys",
+    "date_naissance": "07/11/2007",
+    "classe": "4emA",
+    "moyenne_generale": 13.79,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.29,
+        "notes_dev": [
+          9.0,
+          10.5,
+          11.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 19.0,
+        "moyenne_matiere": 16.67,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.17,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.25,
+        "notes_dev": [
+          15.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.37,
+        "notes_dev": [
+          13.12
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "9H37AKZ",
+    "nom": "LOW",
+    "prenom": "Joakim",
+    "date_naissance": "20/12/2002",
+    "classe": "4emA",
+    "moyenne_generale": 12.63,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          14.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.27,
+        "notes_dev": [
+          12.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0,
+          9.0,
+          16.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "6691DTO",
+    "nom": "Ndour",
+    "prenom": "Karin",
+    "date_naissance": "07/07/2003",
+    "classe": "5emB",
+    "moyenne_generale": 12.91,
+    "matieres": [
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.11,
+        "notes_dev": [
+          15.0,
+          11.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          6.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 17.0,
+        "moyenne_matiere": 15.32,
+        "notes_dev": [
+          10.0,
+          14.9,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.17,
+        "notes_dev": [
+          8.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 16.17,
+        "notes_dev": [
+          18.5
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.0,
+        "notes_dev": [
+          7.0,
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AAD007",
+    "numero": "8YM0304",
+    "nom": "KIBINDA",
+    "prenom": "Iniess",
+    "date_naissance": "15/08/2005",
+    "classe": "6emA",
+    "moyenne_generale": 11.78,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          7.0,
+          9.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.25,
+        "notes_dev": [
+          10.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.92,
+        "notes_dev": [
+          12.0,
+          11.0,
+          16.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ABD009",
+    "numero": "345ERTH",
+    "nom": "Abdou",
+    "prenom": "Wade",
+    "date_naissance": "31/12/2007",
+    "classe": "6emD",
+    "moyenne_generale": 10.89,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          12.0,
+          4.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          10.0,
+          17.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.32,
+        "notes_dev": [
+          10.9,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 7.33,
+        "notes_dev": [
+          0.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0,
+          20.0,
+          16.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          9.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ABD009",
+    "numero": "SDFTY34",
+    "nom": "Senir",
+    "prenom": "Mbol",
+    "date_naissance": "24/02/2015",
+    "classe": "4emB",
+    "moyenne_generale": 10.46,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 8.0,
+        "moyenne_matiere": 6.33,
+        "notes_dev": [
+          1.0,
+          5.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.78,
+        "notes_dev": [
+          10.0,
+          9.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.32,
+        "notes_dev": [
+          10.9,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0,
+          20.0,
+          16.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 8.67,
+        "notes_dev": [
+          6.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ABD009",
+    "numero": "ZRDFD4S",
+    "nom": "Ndiareme",
+    "prenom": "Sylla",
+    "date_naissance": "03/09/2005",
+    "classe": "3emA",
+    "moyenne_generale": 8.23,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 10.83,
+        "notes_dev": [
+          1.0,
+          4.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          0.0,
+          19.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 5.0,
+        "moyenne_matiere": 3.87,
+        "notes_dev": [
+          2.19,
+          1.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0,
+          20.0,
+          16.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 1.0,
+        "moyenne_matiere": 3.67,
+        "notes_dev": [
+          9.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ABD009",
+    "numero": "DFGE67T",
+    "nom": "Mbor",
+    "prenom": "Tounkho",
+    "date_naissance": "17/10/2001",
+    "classe": "5emB",
+    "moyenne_generale": 9.65,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 5.67,
+        "notes_dev": [
+          10.0,
+          4.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 10.0,
+        "moyenne_matiere": 12.11,
+        "notes_dev": [
+          12.0,
+          19.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 4.0,
+        "moyenne_matiere": 5.98,
+        "notes_dev": [
+          10.9,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.17,
+        "notes_dev": [
+          10.0,
+          10.0,
+          8.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 14.33,
+        "notes_dev": [
+          9.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ABD009",
+    "numero": "23453RD",
+    "nom": "yéré",
+    "prenom": "Niani",
+    "date_naissance": "05/11/2012",
+    "classe": "3emD",
+    "moyenne_generale": 9.93,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 8.0,
+        "moyenne_matiere": 9.0,
+        "notes_dev": [
+          18.0,
+          4.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.11,
+        "notes_dev": [
+          10.0,
+          9.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 3.0,
+        "moyenne_matiere": 5.32,
+        "notes_dev": [
+          10.9,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.5,
+        "notes_dev": [
+          10.0,
+          6.0,
+          16.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          19.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ABD009",
+    "numero": "56GFSE6",
+    "nom": "Awa",
+    "prenom": "Samaké",
+    "date_naissance": "30/09/2005",
+    "classe": "5emB",
+    "moyenne_generale": 9.27,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.5,
+        "notes_dev": [
+          1.0,
+          4.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.78,
+        "notes_dev": [
+          1.0,
+          9.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.32,
+        "notes_dev": [
+          10.9,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0,
+          20.0,
+          16.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          9.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ABN018",
+    "numero": "LSNP1OC",
+    "nom": "Moosky",
+    "prenom": "Faye",
+    "date_naissance": "23/04/1988",
+    "classe": "4emC",
+    "moyenne_generale": 13.0,
+    "matieres": [
+      {
+        "nom_matiere": "rançais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          10.0,
+          7.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.83,
+        "notes_dev": [
+          1.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 14.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.83,
+        "notes_dev": [
+          16.0,
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "Science_Physique",
+        "note_examen": 12.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          18.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 11.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          15.0,
+          17.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ABN018",
+    "numero": "PONAAM0",
+    "nom": "Mayoro",
+    "prenom": "Diop",
+    "date_naissance": "14/05/2002",
+    "classe": "6emB",
+    "moyenne_generale": 15.39,
+    "matieres": [
+      {
+        "nom_matiere": "Français",
+        "note_examen": 17.0,
+        "moyenne_matiere": 14.67,
+        "notes_dev": [
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 17.0,
+        "notes_dev": [
+          15.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 17.0,
+        "moyenne_matiere": 17.0,
+        "notes_dev": [
+          18.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          18.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Science_Physique",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          13.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.83,
+        "notes_dev": [
+          15.0,
+          14.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AFD006",
+    "numero": "2022HEC",
+    "nom": "SYLLA",
+    "prenom": "Gallas",
+    "date_naissance": "02/03/2000",
+    "classe": "6emA",
+    "moyenne_generale": 14.08,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 19.0,
+        "moyenne_matiere": 16.67,
+        "notes_dev": [
+          9.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          10.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 19.0,
+        "moyenne_matiere": 18.0,
+        "notes_dev": [
+          18.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          9.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 16.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          3.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          12.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AFD006",
+    "numero": "2017ERT",
+    "nom": "MANTANE",
+    "prenom": "Elisabeth",
+    "date_naissance": "03/04/1996",
+    "classe": "4emA",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          7.0,
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.75,
+        "notes_dev": [
+          13.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AFD006",
+    "numero": "2019GHS",
+    "nom": "BOISY",
+    "prenom": "Chris",
+    "date_naissance": "04/09/2001",
+    "classe": "5emC",
+    "moyenne_generale": 14.52,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          13.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.67,
+        "notes_dev": [
+          13.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.67,
+        "notes_dev": [
+          12.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.67,
+        "notes_dev": [
+          15.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          10.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 20.0,
+        "moyenne_matiere": 17.11,
+        "notes_dev": [
+          11.0,
+          12.0,
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AFD006",
+    "numero": "2014TGR",
+    "nom": "MENDY",
+    "prenom": "Marcelin",
+    "date_naissance": "12/11/1992",
+    "classe": "6emA",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AFD006",
+    "numero": "2020DFH",
+    "nom": "NDIAYE",
+    "prenom": "Fatah",
+    "date_naissance": "23/08/2000",
+    "classe": "4emB",
+    "moyenne_generale": 12.63,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          14.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.27,
+        "notes_dev": [
+          12.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0,
+          9.0,
+          16.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AFD006",
+    "numero": "2019R3M",
+    "nom": "MOHAMED",
+    "prenom": "Ben Omar",
+    "date_naissance": "30/03/1999",
+    "classe": "3emC",
+    "moyenne_generale": 15.16,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 19.0,
+        "moyenne_matiere": 17.78,
+        "notes_dev": [
+          12.0,
+          16.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Françcais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.33,
+        "notes_dev": [
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.33,
+        "notes_dev": [
+          15.0,
+          17.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.67,
+        "notes_dev": [
+          16.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.33,
+        "notes_dev": [
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AFD006",
+    "numero": "2018JKH",
+    "nom": "NDIAYE",
+    "prenom": "Zeyna",
+    "date_naissance": "23/06/1998",
+    "classe": "4emA",
+    "moyenne_generale": 14.52,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          13.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.67,
+        "notes_dev": [
+          13.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.67,
+        "notes_dev": [
+          12.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.67,
+        "notes_dev": [
+          15.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          10.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 20.0,
+        "moyenne_matiere": 17.11,
+        "notes_dev": [
+          11.0,
+          12.0,
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AKH014",
+    "numero": "2020UT6",
+    "nom": "SIHARAJ",
+    "prenom": "SORPHAKA",
+    "date_naissance": "11/09/2002",
+    "classe": "6emB",
+    "moyenne_generale": 12.61,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.33,
+        "notes_dev": [
+          14.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          18.0,
+          6.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.5,
+        "notes_dev": [
+          15.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 9.83,
+        "notes_dev": [
+          18.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          11.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          13.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AKH014",
+    "numero": "2021IJ3",
+    "nom": "LEFRANC",
+    "prenom": "LYDIE",
+    "date_naissance": "04/06/2001",
+    "classe": "4emB",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AKH014",
+    "numero": "PO0023R",
+    "nom": "DUPASQUIER",
+    "prenom": "ERIC",
+    "date_naissance": "02/09/1990",
+    "classe": "3emC",
+    "moyenne_generale": 15.49,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 18.0,
+        "moyenne_matiere": 18.33,
+        "notes_dev": [
+          20.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.11,
+        "notes_dev": [
+          12.0,
+          14.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.53,
+        "notes_dev": [
+          15.16,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 18.0,
+        "moyenne_matiere": 17.67,
+        "notes_dev": [
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.33,
+        "notes_dev": [
+          14.0,
+          15.0,
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.0,
+        "notes_dev": [
+          13.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AKH014",
+    "numero": "1992I0E",
+    "nom": "MAHMOUD",
+    "prenom": "ABDERRAHMAN",
+    "date_naissance": "12/12/1999",
+    "classe": "4emA",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          7.0,
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.75,
+        "notes_dev": [
+          13.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AKH014",
+    "numero": "20L6TRA",
+    "nom": "MIMOUNI",
+    "prenom": "MIMOUNI",
+    "date_naissance": "12/07/1997",
+    "classe": "6emA",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AKH014",
+    "numero": "54FR342",
+    "nom": "Kamou",
+    "prenom": "LAYE",
+    "date_naissance": "04/03/2020",
+    "classe": "5emC",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7812Z5",
+    "nom": "DIOUM",
+    "prenom": "ALIOUNE",
+    "date_naissance": "12/12/2011",
+    "classe": "3emB",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          4.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.6,
+        "notes_dev": [
+          13.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7812Z9",
+    "nom": "NDIAYE",
+    "prenom": "MOUSSA",
+    "date_naissance": "12/03/1999",
+    "classe": "3emA",
+    "moyenne_generale": 11.78,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          7.0,
+          9.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.25,
+        "notes_dev": [
+          10.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.92,
+        "notes_dev": [
+          12.0,
+          11.0,
+          16.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7852Z3",
+    "nom": "FALL",
+    "prenom": "MOUSTAPHA",
+    "date_naissance": "09/09/2012",
+    "classe": "6emB",
+    "moyenne_generale": 11.78,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          7.0,
+          9.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.25,
+        "notes_dev": [
+          10.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.92,
+        "notes_dev": [
+          12.0,
+          11.0,
+          16.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7812Z7",
+    "nom": "MBAYE",
+    "prenom": "IDRISSA",
+    "date_naissance": "15/05/2011",
+    "classe": "4emA",
+    "moyenne_generale": 12.84,
+    "matieres": [
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.11,
+        "notes_dev": [
+          15.0,
+          11.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          6.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.35,
+        "notes_dev": [
+          10.0,
+          12.19,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.83,
+        "notes_dev": [
+          18.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 12.72,
+        "notes_dev": [
+          8.15
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.0,
+        "notes_dev": [
+          7.0,
+          11.0,
+          9.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z7312Z3",
+    "nom": "TINE",
+    "prenom": "SEYDOU",
+    "date_naissance": "03/09/2000",
+    "classe": "5emA",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          7.0,
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.75,
+        "notes_dev": [
+          13.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMD013",
+    "numero": "Z8812Z3",
+    "nom": "TOURE",
+    "prenom": "OUMAR",
+    "date_naissance": "29/11/2001",
+    "classe": "5emB",
+    "moyenne_generale": 13.22,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.54,
+        "notes_dev": [
+          9.0,
+          10.5,
+          10.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 19.0,
+        "moyenne_matiere": 16.67,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.17,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.25,
+        "notes_dev": [
+          15.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.71,
+        "notes_dev": [
+          11.12
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA001",
+    "nom": "FAYE",
+    "prenom": "FATOU",
+    "date_naissance": "12/04/1993",
+    "classe": "6emA",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA002",
+    "nom": "GAYE",
+    "prenom": "THIERNO",
+    "date_naissance": "14/02/1992",
+    "classe": "6emB",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA003",
+    "nom": "DIOP",
+    "prenom": "YOUSSOU",
+    "date_naissance": "12/06/1994",
+    "classe": "5emA",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA004",
+    "nom": "WAGNE",
+    "prenom": "PETIT",
+    "date_naissance": "12/07/1995",
+    "classe": "5emB",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA005",
+    "nom": "CISSE",
+    "prenom": "GALAYE",
+    "date_naissance": "04/03/1995",
+    "classe": "4emA",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA006",
+    "nom": "GOMIS",
+    "prenom": "PATA",
+    "date_naissance": "01/06/1997",
+    "classe": "4emB",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA007",
+    "nom": "SANE",
+    "prenom": "BALLA",
+    "date_naissance": "09/09/1999",
+    "classe": "3emA",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA008",
+    "nom": "SAGNA",
+    "prenom": "SADIO",
+    "date_naissance": "06/06/1999",
+    "classe": "3emB",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "AMG015",
+    "numero": "SONA009",
+    "nom": "NIANG",
+    "prenom": "MAREME",
+    "date_naissance": "12/12/1996",
+    "classe": "6emA",
+    "moyenne_generale": 11.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 5.0,
+        "moyenne_matiere": 4.5,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 7.0,
+        "moyenne_matiere": 5.83,
+        "notes_dev": [
+          4.0,
+          3.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.5,
+        "notes_dev": [
+          16.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "OKYLDC8",
+    "nom": "KANE",
+    "prenom": "Ousmane",
+    "date_naissance": "07/12/2007",
+    "classe": "4emA",
+    "moyenne_generale": 12.37,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.0,
+        "notes_dev": [
+          12.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 8.0,
+        "moyenne_matiere": 8.5,
+        "notes_dev": [
+          9.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.33,
+        "notes_dev": [
+          6.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.83,
+        "notes_dev": [
+          15.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 19.0,
+        "moyenne_matiere": 18.17,
+        "notes_dev": [
+          17.0,
+          16.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "DKBLMT7",
+    "nom": "KONATE",
+    "prenom": "Djiby",
+    "date_naissance": "09/06/2010",
+    "classe": "6emB",
+    "moyenne_generale": 14.87,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.67,
+        "notes_dev": [
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          15.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          14.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.67,
+        "notes_dev": [
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 17.67,
+        "notes_dev": [
+          19.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "CMGBDK9",
+    "nom": "MENDY",
+    "prenom": "Christelle",
+    "date_naissance": "11/10/2006",
+    "classe": "3emB",
+    "moyenne_generale": 14.08,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 16.0,
+        "moyenne_matiere": 16.0,
+        "notes_dev": [
+          14.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 16.0,
+        "moyenne_matiere": 16.33,
+        "notes_dev": [
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 19.0,
+        "moyenne_matiere": 17.67,
+        "notes_dev": [
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          11.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 12.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          8.0,
+          5.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.33,
+        "notes_dev": [
+          13.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "YOSADK1",
+    "nom": "OUEDRAOGO",
+    "prenom": "Yankoba",
+    "date_naissance": "15/02/2009",
+    "classe": "5emA",
+    "moyenne_generale": 14.33,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.17,
+        "notes_dev": [
+          12.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.83,
+        "notes_dev": [
+          13.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 16.0,
+        "moyenne_matiere": 16.0,
+        "notes_dev": [
+          18.0,
+          14.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "SFSADK2",
+    "nom": "FALL",
+    "prenom": "Salimata",
+    "date_naissance": "02/08/2010",
+    "classe": "6emA",
+    "moyenne_generale": 14.2,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.33,
+        "notes_dev": [
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          12.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.17,
+        "notes_dev": [
+          17.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 17.0,
+        "moyenne_matiere": 17.33,
+        "notes_dev": [
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.83,
+        "notes_dev": [
+          18.0,
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "MDMTDK9",
+    "nom": "DIOP",
+    "prenom": "Mamy",
+    "date_naissance": "25/09/2005",
+    "classe": "3emA",
+    "moyenne_generale": 12.07,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.0,
+        "notes_dev": [
+          9.0,
+          11.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.0,
+        "notes_dev": [
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          10.0,
+          15.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.67,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          11.0,
+          13.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "MTBFCA2",
+    "nom": "TAPSOBA",
+    "prenom": "Mounkoudy",
+    "date_naissance": "08/12/2008",
+    "classe": "4emB",
+    "moyenne_generale": 13.61,
+    "matieres": [
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 20.0,
+        "moyenne_matiere": 18.83,
+        "notes_dev": [
+          15.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.17,
+        "notes_dev": [
+          10.0,
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 17.0,
+        "moyenne_matiere": 17.0,
+        "notes_dev": [
+          19.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.83,
+        "notes_dev": [
+          11.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 11.0,
+        "moyenne_matiere": 9.83,
+        "notes_dev": [
+          6.0,
+          9.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "DDPADK7",
+    "nom": "DIA",
+    "prenom": "Dieynaba",
+    "date_naissance": "01/05/2008",
+    "classe": "4emB",
+    "moyenne_generale": 12.77,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.33,
+        "notes_dev": [
+          10.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          12.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          5.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 14.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          12.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 19.0,
+        "moyenne_matiere": 17.67,
+        "notes_dev": [
+          14.0,
+          16.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "ADBMML5",
+    "nom": "DIOGOSOUMA",
+    "prenom": "Aliou",
+    "date_naissance": "03/10/2009",
+    "classe": "5emB",
+    "moyenne_generale": 15.27,
+    "matieres": [
+      {
+        "nom_matiere": "Français",
+        "note_examen": 12.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.0,
+        "notes_dev": [
+          16.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 18.0,
+        "moyenne_matiere": 16.0,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.67,
+        "notes_dev": [
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 18.0,
+        "moyenne_matiere": 16.67,
+        "notes_dev": [
+          15.0,
+          13.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "ASK017",
+    "numero": "ABHLMY1",
+    "nom": "BAOBEY",
+    "prenom": "Angelline",
+    "date_naissance": "18/03/2006",
+    "classe": "3emA",
+    "moyenne_generale": 15.72,
+    "matieres": [
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 17.0,
+        "moyenne_matiere": 15.67,
+        "notes_dev": [
+          16.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 19.0,
+        "moyenne_matiere": 18.17,
+        "notes_dev": [
+          18.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 17.0,
+        "moyenne_matiere": 16.17,
+        "notes_dev": [
+          17.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Français",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          15.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.67,
+        "notes_dev": [
+          12.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          14.0,
+          18.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "AF32IBC",
+    "nom": "FALL",
+    "prenom": "OUSSEYOU",
+    "date_naissance": "03/07/2000",
+    "classe": "3emB",
+    "moyenne_generale": 12.87,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          13.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          10.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          12.0,
+          9.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.0,
+        "notes_dev": [
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.56,
+        "notes_dev": [
+          14.0,
+          9.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.33,
+        "notes_dev": [
+          13.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "M60GRTL",
+    "nom": "TINE",
+    "prenom": "SOKHNA",
+    "date_naissance": "25/02/2005",
+    "classe": "4emA",
+    "moyenne_generale": 10.25,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          8.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 7.0,
+        "moyenne_matiere": 8.0,
+        "notes_dev": [
+          10.0,
+          11.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 8.0,
+        "moyenne_matiere": 8.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          11.0,
+          9.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          12.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "QNXKW09",
+    "nom": "SINE",
+    "prenom": "MARIEME",
+    "date_naissance": "29/08/2008",
+    "classe": "5emB",
+    "moyenne_generale": 9.9,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.33,
+        "notes_dev": [
+          8.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.17,
+        "notes_dev": [
+          15.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 7.0,
+        "moyenne_matiere": 8.33,
+        "notes_dev": [
+          12.0,
+          9.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.22,
+        "notes_dev": [
+          8.0,
+          11.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "G2NXW1L",
+    "nom": "DIOUF",
+    "prenom": "MOUSTAPHA",
+    "date_naissance": "05/07/2001",
+    "classe": "4emB",
+    "moyenne_generale": 11.95,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          10.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.5,
+        "notes_dev": [
+          9.0,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.17,
+        "notes_dev": [
+          13.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          15.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "UPNCG78",
+    "nom": "KA",
+    "prenom": "ALIOU",
+    "date_naissance": "10/05/2009",
+    "classe": "3emB",
+    "moyenne_generale": 13.22,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.54,
+        "notes_dev": [
+          9.0,
+          10.5,
+          10.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 19.0,
+        "moyenne_matiere": 16.67,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.17,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.25,
+        "notes_dev": [
+          15.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.71,
+        "notes_dev": [
+          11.12
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "WYI96BT",
+    "nom": "BA",
+    "prenom": "MOUSSA",
+    "date_naissance": "05/11/2010",
+    "classe": "6emA",
+    "moyenne_generale": 12.04,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.67,
+        "notes_dev": [
+          10.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.11,
+        "notes_dev": [
+          17.0,
+          9.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 12.89,
+        "notes_dev": [
+          10.0,
+          7.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.92,
+        "notes_dev": [
+          12.0,
+          11.0,
+          16.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "WYI96BT",
+    "nom": "DIALLO",
+    "prenom": "SEYNABOU",
+    "date_naissance": "16/02/2003",
+    "classe": "5emB",
+    "moyenne_generale": 12.13,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.17,
+        "notes_dev": [
+          8.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          12.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.83,
+        "notes_dev": [
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 12.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.11,
+        "notes_dev": [
+          14.0,
+          9.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          12.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "FRTX54U",
+    "nom": "NDIAYE",
+    "prenom": "FATOU",
+    "date_naissance": "22/07/2005",
+    "classe": "4emA",
+    "moyenne_generale": 11.61,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.83,
+        "notes_dev": [
+          12.0,
+          7.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.5,
+        "notes_dev": [
+          13.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          9.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 12.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          11.0,
+          10.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 14.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "LJQC67L",
+    "nom": "WADE",
+    "prenom": "ASTOU",
+    "date_naissance": "12/12/2007",
+    "classe": "3emB",
+    "moyenne_generale": 12.5,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          13.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.67,
+        "notes_dev": [
+          10.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.78,
+        "notes_dev": [
+          12.0,
+          9.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.0,
+        "notes_dev": [
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.56,
+        "notes_dev": [
+          14.0,
+          9.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAD008",
+    "numero": "KFPB32H",
+    "nom": "SY",
+    "prenom": "ADJA",
+    "date_naissance": "02/08/2002",
+    "classe": "6emA",
+    "moyenne_generale": 11.78,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          7.0,
+          9.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.25,
+        "notes_dev": [
+          10.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.67,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.92,
+        "notes_dev": [
+          12.0,
+          11.0,
+          16.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "GH43RTU",
+    "nom": "Ndao",
+    "prenom": "Aram",
+    "date_naissance": "16/02/2000",
+    "classe": "3emA",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          7.0,
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.75,
+        "notes_dev": [
+          13.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "PLM56DS",
+    "nom": "Gomis",
+    "prenom": "Pipo",
+    "date_naissance": "16/03/1998",
+    "classe": "4emB",
+    "moyenne_generale": 12.34,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.17,
+        "notes_dev": [
+          8.0,
+          7.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          15.0,
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.36,
+        "notes_dev": [
+          13.15,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          2.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 18.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "GF34KHS",
+    "nom": "Diouf",
+    "prenom": "Ousseynou",
+    "date_naissance": "03/12/1992",
+    "classe": "5emA",
+    "moyenne_generale": 13.28,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 12.5,
+        "notes_dev": [
+          18.0,
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          5.0,
+          13.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.08,
+        "notes_dev": [
+          12.5,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.75,
+        "notes_dev": [
+          12.0,
+          19.0,
+          15.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 18.0,
+        "moyenne_matiere": 17.33,
+        "notes_dev": [
+          16.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "JHGF7F5",
+    "nom": "Diop",
+    "prenom": "Elimane",
+    "date_naissance": "12/01/2003",
+    "classe": "6emA",
+    "moyenne_generale": 14.49,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.0,
+        "notes_dev": [
+          9.0,
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 18.0,
+        "moyenne_matiere": 15.67,
+        "notes_dev": [
+          12.0,
+          13.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 12.25,
+        "notes_dev": [
+          3.5,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 19.0,
+        "moyenne_matiere": 18.33,
+        "notes_dev": [
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          12.0,
+          19.0,
+          16.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 18.0,
+        "moyenne_matiere": 16.67,
+        "notes_dev": [
+          14.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "RED76BH",
+    "nom": "Cissé",
+    "prenom": "Babacar",
+    "date_naissance": "03/06/2005",
+    "classe": "3emB",
+    "moyenne_generale": 12.34,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.17,
+        "notes_dev": [
+          8.0,
+          7.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          15.0,
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.36,
+        "notes_dev": [
+          13.15,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          2.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 18.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "GF69LBC",
+    "nom": "Ba",
+    "prenom": "Abdoulaye",
+    "date_naissance": "09/02/1992",
+    "classe": "3emA",
+    "moyenne_generale": 13.14,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.83,
+        "notes_dev": [
+          18.0,
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 12.0,
+        "moyenne_matiere": 10.22,
+        "notes_dev": [
+          10.0,
+          1.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.69,
+        "notes_dev": [
+          10.11,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.75,
+        "notes_dev": [
+          12.0,
+          9.0,
+          13.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 19.0,
+        "moyenne_matiere": 16.67,
+        "notes_dev": [
+          12.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "ML09RDS",
+    "nom": "Diallo",
+    "prenom": "Alioune",
+    "date_naissance": "08/07/1993",
+    "classe": "4emB",
+    "moyenne_generale": 10.39,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 11.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          9.0,
+          7.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 4.0,
+        "moyenne_matiere": 7.44,
+        "notes_dev": [
+          11.0,
+          13.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.69,
+        "notes_dev": [
+          12.11,
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.33,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 2.0,
+        "moyenne_matiere": 5.58,
+        "notes_dev": [
+          13.0,
+          7.0,
+          15.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.33,
+        "notes_dev": [
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "NBV76RD",
+    "nom": "Gueye",
+    "prenom": "Abdalah",
+    "date_naissance": "01/01/1992",
+    "classe": "4emA",
+    "moyenne_generale": 13.0,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 0.0,
+        "moyenne_matiere": 4.83,
+        "notes_dev": [
+          12.0,
+          17.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.56,
+        "notes_dev": [
+          12.0,
+          17.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.36,
+        "notes_dev": [
+          13.15,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 19.0,
+        "moyenne_matiere": 16.33,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.58,
+        "notes_dev": [
+          12.0,
+          8.0,
+          12.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 18.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "NB675DH",
+    "nom": "Dia",
+    "prenom": "Hawa",
+    "date_naissance": "07/07/1997",
+    "classe": "5emB",
+    "moyenne_generale": 12.63,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          15.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 19.0,
+        "moyenne_matiere": 18.0,
+        "notes_dev": [
+          13.0,
+          16.0,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.02,
+        "notes_dev": [
+          12.13,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 19.0,
+        "moyenne_matiere": 16.67,
+        "notes_dev": [
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 2.0,
+        "moyenne_matiere": 4.58,
+        "notes_dev": [
+          2.0,
+          9.0,
+          17.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 15.0,
+        "moyenne_matiere": 10.33,
+        "notes_dev": [
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BAF013",
+    "numero": "MLHF65D",
+    "nom": "Guissé",
+    "prenom": "Penda",
+    "date_naissance": "04/04/1994",
+    "classe": "3emA",
+    "moyenne_generale": 12.34,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 10.0,
+        "moyenne_matiere": 9.17,
+        "notes_dev": [
+          8.0,
+          7.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 14.0,
+        "moyenne_matiere": 13.33,
+        "notes_dev": [
+          15.0,
+          12.0,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 15.36,
+        "notes_dev": [
+          13.15,
+          19.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          2.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 18.0,
+        "moyenne_matiere": 15.33,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BMP019",
+    "numero": "3FR5IJ9",
+    "nom": "DIALLO",
+    "prenom": "Hermione",
+    "date_naissance": "12/08/2006",
+    "classe": "4emB",
+    "moyenne_generale": 12.84,
+    "matieres": [
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.11,
+        "notes_dev": [
+          15.0,
+          11.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          6.0,
+          14.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.35,
+        "notes_dev": [
+          10.0,
+          12.19,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.83,
+        "notes_dev": [
+          18.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 12.72,
+        "notes_dev": [
+          8.15
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.0,
+        "notes_dev": [
+          7.0,
+          11.0,
+          9.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BMP019",
+    "numero": "PM12NG7",
+    "nom": "DIOP",
+    "prenom": "Marième",
+    "date_naissance": "19/08/1997",
+    "classe": "3emA",
+    "moyenne_generale": 12.21,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 10.33,
+        "notes_dev": [
+          15.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          4.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.6,
+        "notes_dev": [
+          13.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BMP019",
+    "numero": "89HY6F5",
+    "nom": "DIALLO",
+    "prenom": "Ronald",
+    "date_naissance": "09/05/2000",
+    "classe": "6emA",
+    "moyenne_generale": 12.35,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.75,
+        "notes_dev": [
+          10.0,
+          14.5
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          4.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          13.5
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BMP019",
+    "numero": "5D7BKJ2",
+    "nom": "FALL",
+    "prenom": "Magui",
+    "date_naissance": "30/08/2008",
+    "classe": "3emB",
+    "moyenne_generale": 12.1,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.5,
+        "notes_dev": [
+          10.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          7.0,
+          12.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.75,
+        "notes_dev": [
+          13.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BMP019",
+    "numero": "PK0I89K",
+    "nom": "CAMARA",
+    "prenom": "Rachid",
+    "date_naissance": "15/02/2001",
+    "classe": "6emA",
+    "moyenne_generale": 11.27,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          12.0,
+          14.5,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.83,
+        "notes_dev": [
+          14.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 5.0,
+        "moyenne_matiere": 7.93,
+        "notes_dev": [
+          13.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          12.0,
+          9.0,
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.33,
+        "notes_dev": [
+          11.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BMP019",
+    "numero": "9F6J9TT",
+    "nom": "POUYE",
+    "prenom": "Ousseynou",
+    "date_naissance": "02/12/1985",
+    "classe": "4emA",
+    "moyenne_generale": 13.7,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 17.0,
+        "moyenne_matiere": 15.54,
+        "notes_dev": [
+          10.0,
+          14.5,
+          11.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 16.0,
+        "moyenne_matiere": 15.17,
+        "notes_dev": [
+          11.0,
+          16.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.17,
+        "notes_dev": [
+          16.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.17,
+        "notes_dev": [
+          12.0,
+          3.0,
+          17.0,
+          18.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.67,
+        "notes_dev": [
+          14.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.5,
+        "notes_dev": [
+          13.5
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BMP019",
+    "numero": "6G6F9F1",
+    "nom": "DEME",
+    "prenom": "Mahi",
+    "date_naissance": "27/10/1993",
+    "classe": "3emB",
+    "moyenne_generale": 12.63,
+    "matieres": [
+      {
+        "nom_matiere": "PC",
+        "note_examen": 9.0,
+        "moyenne_matiere": 9.67,
+        "notes_dev": [
+          11.0,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Math",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.86,
+        "notes_dev": [
+          14.15,
+          11.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 13.0,
+        "notes_dev": [
+          14.0,
+          12.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.27,
+        "notes_dev": [
+          12.8
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 12.0,
+        "notes_dev": [
+          10.0,
+          9.0,
+          16.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 16.0,
+        "moyenne_matiere": 14.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  },
+  {
+    "code": "BMP019",
+    "numero": "BH54JJ6",
+    "nom": "DUBOIS",
+    "prenom": "Bachir",
+    "date_naissance": "15/09/1994",
+    "classe": "5emA",
+    "moyenne_generale": 12.16,
+    "matieres": [
+      {
+        "nom_matiere": "Math",
+        "note_examen": 15.0,
+        "moyenne_matiere": 14.17,
+        "notes_dev": [
+          10.0,
+          15.0
+        ]
+      },
+      {
+        "nom_matiere": "Francais",
+        "note_examen": 13.0,
+        "moyenne_matiere": 12.44,
+        "notes_dev": [
+          17.0,
+          9.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "Anglais",
+        "note_examen": 15.0,
+        "moyenne_matiere": 13.25,
+        "notes_dev": [
+          10.5,
+          9.0
+        ]
+      },
+      {
+        "nom_matiere": "PC",
+        "note_examen": 11.0,
+        "moyenne_matiere": 11.17,
+        "notes_dev": [
+          10.0,
+          13.0
+        ]
+      },
+      {
+        "nom_matiere": "SVT",
+        "note_examen": 12.0,
+        "moyenne_matiere": 11.92,
+        "notes_dev": [
+          12.0,
+          11.0,
+          16.0,
+          8.0
+        ]
+      },
+      {
+        "nom_matiere": "HG",
+        "note_examen": 10.0,
+        "moyenne_matiere": 10.0,
+        "notes_dev": [
+          10.0
+        ]
+      }
+    ]
+  }
+]
